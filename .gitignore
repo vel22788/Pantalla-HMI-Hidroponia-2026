@@ -1,0 +1,26 @@
+# Salidas de compilacion
+/salida/
+/FirmwareHMI/build/
+/build/
+*.o
+*.a
+*.elf
+*.bin
+*.hex
+*.log
+*.d
+# Temporales de herramientas
+__pycache__/
+*.pyc
+*.tmp
+*.bak
+.cache/
+# Archivos del editor grafico
+/proyecto_squareline/cache/
+/proyecto_squareline/backup/
+/proyecto_squareline/screenshots/
+# Archivos locales
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
